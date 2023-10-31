@@ -13,4 +13,6 @@ Business objective:
 
 The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
 
-The https://www.kaggle.com/kamalapousajja/spark-funds-investment-analysis
+The updated version of this project is on Kaggle link below
+
+https://www.kaggle.com/kamalapousajja/spark-funds-investment-analysis
